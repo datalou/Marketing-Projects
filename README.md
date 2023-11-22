@@ -27,6 +27,7 @@ This dataset is valuable for marketing professionals, data scientists, and resea
 Contributions
 
 Contributions to this project are welcome! If you have insights, improvements, or additional analyses to contribute, please follow the guidelines outlined in the CONTRIBUTING.md file.
+
 License
 
 This project is licensed under the MIT License.
